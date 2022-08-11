@@ -1,0 +1,20 @@
+.p{
+    font-weight: bold;
+}
+.h2{
+    font-weight: bold;
+}
+.ol1{
+    font-weight: 300;
+}
+.imgavatar{
+    width: 300px;
+    height: auto;
+    border-radius: 150%;
+    border: 1px solid black;
+    border-width: 4px;
+    padding: 4px;
+}
+.table1{
+    border: 2;
+}
